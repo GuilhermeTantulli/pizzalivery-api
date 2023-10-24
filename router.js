@@ -65,7 +65,7 @@ const router = [
       return [
         {
           id: "10",
-          image: Mussarela,
+          image: "http://localhost:5173/src/assets/pizza-flavours/mucarela.png",
           name: "Mussarela",
           description:
             "Muçarela especial fresca, finalizada com orégano e azeitonas portuguesas.",
@@ -77,7 +77,7 @@ const router = [
         },
         {
           id: "11",
-          image: ChickenWithCheese,
+          image: "http://localhost:5173/src/assets/pizza-flavours/frango-catupiry.png",
           name: "Frango com catupiry",
           description:
             "Peito de frango cozido, desfiado e refogado em azeite de oliva e temperos naturais, anéis de cebola sobre base de muçarela especial, bacon em cubos e Catupiry® gratinado. É finalizada com orégano.",
@@ -89,7 +89,7 @@ const router = [
         },
         {
           id: "12",
-          image: Margherita,
+          image: "http://localhost:5173/src/assets/pizza-flavours/margherita.png",
           name: "Margherita",
           description:
             "Muçarela especial, muçarela de búfala rasgada, fatias de tomate finalizada com folhas de manjericão orgânico e um fio de azeite aromatizado.",
@@ -101,7 +101,7 @@ const router = [
         },
         {
           id: "13",
-          image: Lusa,
+          image: "http://localhost:5173/src/assets/pizza-flavours/portuguesa.png",
           name: "Portuguesa",
           description:
             "Clássica pizza, leva presunto magro, cebola, palmito e ervilha sobre base de muçarela fresca. Finalizada com cobertura de ovos, orégano e azeitonas portuguesas. ",
